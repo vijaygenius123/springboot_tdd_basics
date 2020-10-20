@@ -1,4 +1,4 @@
-package com.vijaygenius123.learning.tdd_basics.controller;
+package com.vijaygenius123.learning.tdd_basics.controllers;
 
 
 import org.junit.jupiter.api.Test;
